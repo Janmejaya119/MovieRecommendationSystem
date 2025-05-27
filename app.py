@@ -3,7 +3,7 @@ import pickle as pkl
 import pandas as pd
 import requests
 
-TMDB_API_KEY = '467d1b63934a99d98f93704c485f608c'  # 🔑 Paste your API key here
+TMDB_API_KEY = '467d1b63934a99d98f93704c485f608c'
 
 def fetch_poster(movie_title):
     response = requests.get(
