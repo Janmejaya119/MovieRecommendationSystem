@@ -25,6 +25,9 @@ Load the preprocessed data and similarity matrix (similarity.pkl).
 
 Input a movie title to get recommendations.
 
+Checkout the live demo here!
+https://movierecommendationsystem-bjzugynyxabvdw7ljoutda.streamlit.app/
+
 Receive a list of movies ranked by similarity.
 
 Requirements
